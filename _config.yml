@@ -1,2 +1,4 @@
 name: ningfma
 markdown: kramdown
+
+theme: jekyll-theme-slate
